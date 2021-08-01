@@ -5,3 +5,4 @@
 
 
 完成链接
+git push --set-upstream origin ask
